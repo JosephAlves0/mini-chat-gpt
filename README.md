@@ -276,15 +276,3 @@ Aprendendo passo a passo:
 ```
 matemática → rede neural → linguagem → transformers
 ```
-
----
-
-# 📖 Referência de Estudo
-
-Grande parte da inspiração para esse tipo de estudo vem de conteúdos educacionais sobre redes neurais e modelos de linguagem.
-
----
-
-# 🧑‍💻 Autor
-
-Estudo pessoal sobre IA e redes neurais aplicado à engenharia de software.
